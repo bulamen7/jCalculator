@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="joor-0.9.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/joor-0.9.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
